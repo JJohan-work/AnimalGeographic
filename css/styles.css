@@ -1,0 +1,13 @@
+header {
+  background-color: black;
+  color: yellow;
+  font-family: "comic sans ms";
+  height: 3em;
+  margin-bottom: 30px;
+}
+
+
+#map>img {
+  width:800px;
+  padding:0px;
+}
