@@ -21,7 +21,7 @@ This is an Animal Wiki as part of Epicodus Week 2 Lesson 52.
 * * *
 
 ## Setup instructions:  
-* Go to [Github Pages](https://jjohan-work.github.io/#) to see webpage
+* Go to [Github Pages](https://jjohan-work.github.io/AnimalGeographic/) to see webpage
 #### Alt
 * Clone Repo
 * Open index.html in browser
